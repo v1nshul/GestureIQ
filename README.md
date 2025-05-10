@@ -1,2 +1,2 @@
 # GestureIQ
-A learning tool which allows you to visualize anything through gestures 
+- A learning tool which allows you to visualize anything through gestures. 
