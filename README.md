@@ -1,5 +1,7 @@
 # GestureIQ
-- A learning tool which allows you to visualize anything through gestures. 
+- A learning tool which allows you to visualize anything through gestures.
+- <img width="886" height="667" alt="Screenshot 2025-04-07 215950" src="https://github.com/user-attachments/assets/e1b612db-dccb-4131-ac8b-1f4794a73448" />
+- The idea for the app, as depicted above in the initial UI design.
 
 ##  Real-Time Hand Gesture Interaction with TouchDesigner 
 This project demonstrates a real-time hand gesture recognition system integrated with TouchDesigner, enabling symbolic manipulation of visuals for enhanced digital interaction—ideal for virtual classrooms, performances, and presentations.
